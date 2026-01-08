@@ -2,9 +2,13 @@
 title:
 ---
 
-Sep 16
-: **Lecture**{: .label .label-purple } [Process](#)
+Jan 20
+: **Lecture**{: .label .label-purple } [Processes](#)
 
-Sep 18
+Jan 21
+: **Due**{: .label .label-red } [Lab1](#)
 
-: **Lecture**{: .label .label-purple } [Process](#)
+Jan 22
+: **Release**{: .label .label-green } [Lab2](#)
+: **Lecture**{: .label .label-purple } [Processes, Threads](#)
+
