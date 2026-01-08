@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Schedule
+title: Class time and location
 description: The weekly event schedule.
 ---
 
-# Weekly Schedule
+# Class time and location
 
 {% for schedule in site.schedules %}
 {{ schedule }}
