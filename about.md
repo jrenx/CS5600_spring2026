@@ -35,7 +35,11 @@ Slides for each class will be posted on Canvas prior to class.
 
 This course will consist of 35% lab assignments (5 lab assignments, 7% each), 20% quizzes (5 quizzes, 4% each), 15% midterm and 30% final exam.
 Please see "Calendar" for the release and due dates for labs, dates for quizzes, the midterm and the final exam.
-The quizzes will take place at the beginning of lectures, and the midterm and final will take the duration of the entire lecture and will be hosted in the classroom.
+The quizzes will take place at the beginning of lectures, and the midterm and final will take the duration of the entire lecture and will be hosted in the classroom. 
+
+## Getting help
+
+If you have questions about the lab assignments, including questions on how to set up, compile, implement, debug the lab, please ask them on Piazza and/or attend the TA's office hour.
 
 ## Cheating
 
