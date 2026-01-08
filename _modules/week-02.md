@@ -1,14 +1,13 @@
 ---
 title:
 ---
-Sep 8
-: **Release**{: .label .label-green } [Lab1](#)
 
-Sep 9
-: **Lecture**{: .label .label-purple }[Overview: hardware & OS](#)
+Jan 13
+: **Lecture**{: .label .label-purple }[Overview: hardware & OS, Process](#)
 
-Sep 11
+Jan 15
 : **Lecture**{: .label .label-purple }[Process](#)
+
 
 
 
