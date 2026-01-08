@@ -3,10 +3,11 @@ title:
 ---
 
 Apr 07
-: **Lecture**{: .label .label-gray } [TBD](#)
+: **Lecture**{: .label .label-purple } [TBD](#)
 
 Apr 09
 : **Lecture**{: .label .label-purple } [TBD](#)
 
 Apr 11
 : **Due**{: .label .label-red } [Lab5](#)
+
