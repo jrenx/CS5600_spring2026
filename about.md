@@ -31,9 +31,6 @@ Supplementary textbook: Modern Operating Systems by Andrew S. Tanenbaum
 ## Slides
 Slides for each class will be posted on Canvas prior to class.
 
-## Slides
-Slides for each class will be posted on Canvas prior to class.
-
 ## Grades
 
 This course will consist of 35% lab assignments (5 lab assignments, 7% each), 20% quizzes (5 quizzes, 4% each), 15% midterm and 30% final exam.
