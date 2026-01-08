@@ -2,9 +2,10 @@
 title:
 ---
 
-Nov 11
-: [Veteran's Day, No class](#)
+Mar 17
+: **Quiz2**{: .label .label-red } [Lab3 and Memory Management](#)
+: **Lecture**{: .label .label-purple } [IO](#)
 
-Nov 13
-
+Mar 19
 : **Lecture**{: .label .label-purple } [File system](#)
+
