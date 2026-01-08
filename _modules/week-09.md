@@ -6,9 +6,10 @@ Mar 01
 Mar 02
 : **Release**{: .label .label-green } [Lab4](#)
 Mar 03
-: **Spring Break**{: .label .label-grey } [No classes](#)
+: [Spring break, No class](#)
 Mar 05
-: **Spring Break**{: .label .label-grey } [No classes](#)
+: [Spring break, No class](#)
+
 
 
 
