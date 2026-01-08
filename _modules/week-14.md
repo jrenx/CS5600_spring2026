@@ -2,12 +2,11 @@
 title:
 ---
 
-Dec 2
-: **Lecture**{: .label .label-gray } [Review](#)
+Apr 07
+: **Lecture**{: .label .label-gray } [TBD](#)
 
-Dec 4 
-: **Lecture**{: .label .label-purple } [Advanced topics](#)
+Apr 09
+: **Lecture**{: .label .label-purple } [TBD](#)
 
-Dec 5
+Apr 11
 : **Due**{: .label .label-red } [Lab5](#)
-
