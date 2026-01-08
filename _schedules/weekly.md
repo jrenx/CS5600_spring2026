@@ -25,13 +25,13 @@ schedule:
       - name: Lecture
         start: 11:45 AM
         end: 1:25 PM
-        location: Behrakis Health Sciences Cntr 325
+        location: Snell Library 039
   - name: Wednesday
   - name: Thursday
     events:
       - name: Lecture
         start: 2:50 PM
         end: 4:30 PM
-        location: Behrakis Health Sciences Cntr 325
+        location: Snell Library 039
   - name: Friday
 ---
