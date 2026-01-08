@@ -18,11 +18,11 @@ description: >-
 
 ## About
 
-Hi. Welcome to CS5600!
+Hi. Welcome to CS5600 Spring 2026!
 
 ## Grades
 
-This course will consist of 50% lab assignments, 20% midterm and 30% final exam.
+This course will consist of 35% lab assignments, 20% quizzes, 15% midterm and 30% final exam.
 
 ## Cheating
 
