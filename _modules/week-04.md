@@ -2,19 +2,11 @@
 title:
 ---
 
-Sep 22
-: **Due**{: .label .label-red } [Lab1 (one day extension)](#)
+Jan 27
+: **Lecture**{: .label .label-purple } [scheduling](#)
 
-
-
-Sep 22
-: **Release**{: .label .label-green } [Lab2](#)
-
-Sep 23
-: **Lecture**{: .label .label-purple } [Thread, scheduling](#)
-
-Sep 25
-
+Jan 29
 : **Lecture**{: .label .label-purple } [Scheduling](#)
+
 
 
