@@ -2,12 +2,9 @@
 title:
 ---
 
-Nov 25
-: **Lecture**{: .label .label-gray } [Review](#)
+Mar 31
+: **Quiz4**{: .label .label-red } [Lab4 and File System](#)
+: **Lecture**{: .label .label-purple } [Security](#)
 
-Nov 27
-
-: [Fall break, No class](#)
-
-
-
+Apr 02
+: **Lecture**{: .label .label-purple } [Security](#)
