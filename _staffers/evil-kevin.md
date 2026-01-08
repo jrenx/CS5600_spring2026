@@ -1,7 +1,7 @@
 ---
-name: Yibo (Brent) Zhao
+name: Shuyi Lin
 role: Teaching Assistant
-email: zhao dot yibo at northeastern dot edu
+email: shuyi dot lin at northeastern dot edu
 meta:
-  Office Hours: Friday 2:00-4:00pm Location TBP
+  Office Hours: Friday TBD Location TBD
 ---
