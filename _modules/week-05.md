@@ -2,9 +2,10 @@
 title:
 ---
 
-Sep 30
+Feb 03
+: **Quiz1**{: .label .label-red } [lab1, scheduling](#)
 : **Lecture**{: .label .label-purple } [Synchronization](#)
 
-Oct 2
-
+Feb 05
 : **Lecture**{: .label .label-purple } [Synchronization](#)
+
