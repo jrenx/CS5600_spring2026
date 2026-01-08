@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class time and location
-description: The weekly event schedule.
+description: 
 ---
 
 # Class time and location
