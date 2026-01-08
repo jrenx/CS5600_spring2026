@@ -2,12 +2,12 @@
 title:
 ---
 
-Oct 21
-: **Lecture**{: .label .label-gray  } [Going over Midterm](#)
+Feb 24
+: **Lecture**{: .label .label-gray  } [Review for Midterm](#)
 
-Oct 23
+Feb 26
+: **Midterm Exam**{: .label .label-red } [Midterm](#)
 
-: **Lecture**{: .label .label-purple } [Memory management](#)
 
 
 
