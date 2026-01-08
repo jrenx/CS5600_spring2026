@@ -2,11 +2,12 @@
 title:
 ---
 
-Oct 14
-: **Lecture**{: .label .label-gray } [Review for Midterm](#)
+Feb 17
+: **Lecture**{: .label .label-gray } [Synchronization, Memory Management](#)
 
-Oct 16
+Feb 19
+: **Quiz2**{: .label .label-red } [Lab2, Synchronization](#)
+: **Lecture**{: .label .label-red } [Memory Management](#)
 
-: **Lecture**{: .label .label-red } [Midterm](#)
 
 
