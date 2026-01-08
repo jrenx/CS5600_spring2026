@@ -28,9 +28,17 @@ And we'll cover the following chapters: 2, 4, 5, 6, 7, 8, 9, 13, 14, 15, 16, 18,
 
 Supplementary textbook: Modern Operating Systems by Andrew S. Tanenbaum
 
+## Slides
+Slides for each class will be posted on Canvas prior to class.
+
+## Slides
+Slides for each class will be posted on Canvas prior to class.
+
 ## Grades
 
-This course will consist of 35% lab assignments, 20% quizzes, 15% midterm and 30% final exam.
+This course will consist of 35% lab assignments (5 lab assignments, 7% each), 20% quizzes (5 quizzes, 4% each), 15% midterm and 30% final exam.
+Please see "Calendar" for the release and due dates for labs, dates for quizzes, the midterm and the final exam.
+The quizzes will take place at the beginning of lectures, and the midterm and final will take the duration of the entire lecture and will be hosted in the classroom.
 
 ## Cheating
 
