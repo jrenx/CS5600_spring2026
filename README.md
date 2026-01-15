@@ -17,10 +17,15 @@ Hi. Welcome to CS5600 Spring 2026!
 ## Textbook
 The course will mainly follow this textbook: Operating Systems Three Easy Pieces by Andrea and Remzi Arpaci-Dusseau
 https://pages.cs.wisc.edu/~remzi/OSTEP/
+https://techiefood4u.wordpress.com/wp-content/uploads/2020/02/operating_systems_three_easy_pieces.pdf
 
 And we'll cover the following chapters: 2, 4, 5, 6, 7, 8, 9, 13, 14, 15, 16, 18, 19, 20, 21, 22, 26, 27, 28, 30, 31, 32, 36, 37, 38, 39, 40, 41, 42, 43, 53, 54, 55
 
 Supplementary textbook: Modern Operating Systems by Andrew S. Tanenbaum
+https://os.ecci.ucr.ac.cr/slides/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf
+
+Supplementary textbook: Computer Systems: A Programmer's Perspective by Randal E. Bryant and David R. O'Hallaron
+https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf
 
 ## Slides
 Slides for each class will be posted on Canvas prior to class.
