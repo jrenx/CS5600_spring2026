@@ -3,10 +3,11 @@ title:
 ---
 
 Jan 13
-: **Lecture**{: .label .label-purple }[Overview: Hardware & OS, Process](#)
+: **Lecture**{: .label .label-purple }[Process Address Space](#)
 
 Jan 15
-: **Lecture**{: .label .label-purple }[Processes](#)
+: **Lecture**{: .label .label-purple }[Process Address Space](#)
+
 
 
 
