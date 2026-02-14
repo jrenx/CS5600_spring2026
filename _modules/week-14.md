@@ -8,6 +8,4 @@ Apr 07
 Apr 09
 : **Lecture**{: .label .label-purple } [TBD](#)
 
-Apr 11
-: **Due**{: .label .label-red } [Lab5](#)
 
