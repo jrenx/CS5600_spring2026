@@ -2,9 +2,6 @@
 title:
 ---
 
-Mar 09
-: **Due**{: .label .label-red } [Lab3](#)
-
 Mar 10
 
 : **Lecture**{: .label .label-purple } [Going Over Midterm, Memory Management](#)
@@ -14,5 +11,8 @@ Mar 10
 Mar 12
 
 : **Lecture**{: .label .label-purple } [Memory Management](#)
+
+: **Due**{: .label .label-red } [Lab3](#)
+
 
 
