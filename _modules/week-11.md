@@ -3,10 +3,10 @@ title:
 ---
 
 Mar 17
-: **Quiz3**{: .label .label-red } [Lab3 and Memory Management](#)
-: **Lecture**{: .label .label-purple } [IO](#)
+: **Lecture**{: .label .label-purple } [Memory Management](#)
 
 Mar 19
-: **Lecture**{: .label .label-purple } [File system](#)
+: **Lecture**{: .label .label-purple } [Going over the midterm](#)
+
 
 
