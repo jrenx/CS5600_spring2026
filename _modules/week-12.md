@@ -4,7 +4,7 @@ title:
 
 Mar 24
 
-: **Lecture**{: .label .label-purple } [File system](#)
+: **Lecture**{: .label .label-purple } [Memory management, IO](#)
 
 Mar 26
 : **Lecture**{: .label .label-purple } [File system](#)
@@ -14,5 +14,6 @@ Mar 27
 
 Mar 28
 : **Release**{: .label .label-green } [Lab5](#)
+
 
 
