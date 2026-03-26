@@ -3,7 +3,7 @@ title:
 ---
 
 Apr 14
-: **Lecture**{: .label .label-purple } [Review](#)
+: **Lecture**{: .label .label-purple } [Security, Review](#)
 
 Apr 15
 : **Due**{: .label .label-red } [Lab5](#)
