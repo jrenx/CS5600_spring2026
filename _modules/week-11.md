@@ -3,10 +3,10 @@ title:
 ---
 
 Mar 17
-: **Lecture**{: .label .label-purple } [Memory Management](#)
+: **Lecture**{: .label .label-purple } [Address translation, Page table, Smaller page table](#)
 
 Mar 19
-: **Lecture**{: .label .label-purple } [Going over the midterm](#)
+: **Lecture**{: .label .label-purple } [Address translation, Page table, Smaller page table & Demand Paging, Mem Techniques](#)
 
 
 
