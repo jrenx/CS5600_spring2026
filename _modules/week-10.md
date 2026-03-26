@@ -4,7 +4,7 @@ title:
 
 Mar 10
 
-: **Lecture**{: .label .label-purple } [Semaphore, Memory Management](#)
+: **Lecture**{: .label .label-purple } [Semaphore & Partition, Segmentation, Paging](#)
 
 Mar 11
 
@@ -12,7 +12,7 @@ Mar 11
 
 Mar 12
 
-: **Lecture**{: .label .label-purple } [Memory Management](#)
+: **Lecture**{: .label .label-purple } [Partition, Segmentation, Paging](#)
 
 : **Due**{: .label .label-red } [Lab3](#)
 
